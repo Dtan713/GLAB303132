@@ -12,7 +12,7 @@ public class NioExample {
         // Specify out file with path location
 
 //Files contents will be written in these files
-        String outputFile -"C:/Downloads/nioOutput.txt";
+        String outputFile = "C:/Downloads/nioOutput.txt";
 
 
         // Get Channel for destination or outPutFiles
@@ -37,4 +37,4 @@ public class NioExample {
     //fis.close();
     }
 }
-}
+
